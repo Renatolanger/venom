@@ -1,0 +1,3 @@
+git remoto adicionar origem https://github.com/Renatolanger/venom.git
+ramo Git -M principal
+git push -u origem principal
